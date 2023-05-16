@@ -1,5 +1,5 @@
 # UTS
-Membuat login page dengan Flutter
-Nama  : Ari Nugrohojati
-NIM   : 312010366
-Kelas : TI.20.A.2
+Membuat login page dengan Flutter<br>
+Nama  : Ari Nugrohojati<br>
+NIM   : 312010366<br>
+Kelas : TI.20.A.2<br>
